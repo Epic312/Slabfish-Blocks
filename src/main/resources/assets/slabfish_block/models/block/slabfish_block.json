@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "down": "slabfish_block:block/slabfish_block_bottom",
+    "up": "slabfish_block:block/slabfish_block_top",
+    "north": "slabfish_block:block/slabfish_block_front",
+    "south": "slabfish_block:block/slabfish_block_back",
+    "west": "slabfish_block:block/slabfish_block_right",
+    "east": "slabfish_block:block/slabfish_block_left",
+    "particle": "slabfish_block:block/slabfish_block_top"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "variants": {
+    "facing=east,type=bottom": {
+      "model": "slabfish_block:block/slabfish_slab",
+      "y": 90
+    },
+    "facing=north,type=bottom": {
+      "model": "slabfish_block:block/slabfish_slab"
+    },
+    "facing=south,type=bottom": {
+      "model": "slabfish_block:block/slabfish_slab",
+      "y": 180
+    },
+    "facing=west,type=bottom": {
+      "model": "slabfish_block:block/slabfish_slab",
+      "y": 270
+    },
+    "facing=east,type=top": {
+      "model": "slabfish_block:block/slabfish_slab_top",
+      "y": 90
+    },
+    "facing=north,type=top": {
+      "model": "slabfish_block:block/slabfish_slab_top"
+    },
+    "facing=south,type=top": {
+      "model": "slabfish_block:block/slabfish_slab_top",
+      "y": 180
+    },
+    "facing=west,type=top": {
+      "model": "slabfish_block:block/slabfish_slab_top",
+      "y": 270
+    },
+    "facing=east,type=double": {
+      "model": "slabfish_block:block/slabfish_slab_full",
+      "y": 90
+    },
+    "facing=north,type=double": {
+      "model": "slabfish_block:block/slabfish_slab_full"
+    },
+    "facing=south,type=double": {
+      "model": "slabfish_block:block/slabfish_slab_full",
+      "y": 180
+    },
+    "facing=west,type=double": {
+      "model": "slabfish_block:block/slabfish_slab_full",
+      "y": 270
+    }
+  }
+}

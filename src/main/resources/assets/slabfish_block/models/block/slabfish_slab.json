@@ -1,0 +1,11 @@
+{
+  "parent": "slabfish_block:block/directional_slab",
+  "textures": {
+    "down": "slabfish_block:block/slabfish_slab_bottom",
+    "up": "slabfish_block:block/slabfish_slab_top",
+    "front": "slabfish_block:block/slabfish_slab_front",
+    "back": "slabfish_block:block/slabfish_slab_back",
+    "right": "slabfish_block:block/slabfish_slab_right",
+    "left": "slabfish_block:block/slabfish_slab_left"
+  }
+}

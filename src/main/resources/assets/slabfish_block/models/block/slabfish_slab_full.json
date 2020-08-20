@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "particle": "slabfish_block:block/slabfish_slab_top",
+    "down": "slabfish_block:block/slabfish_slab_bottom",
+    "up": "slabfish_block:block/slabfish_slab_top",
+    "north": "slabfish_block:block/slabfish_slab_front",
+    "south": "slabfish_block:block/slabfish_slab_back",
+    "west": "slabfish_block:block/slabfish_slab_right",
+    "east": "slabfish_block:block/slabfish_slab_left"
+  }
+}

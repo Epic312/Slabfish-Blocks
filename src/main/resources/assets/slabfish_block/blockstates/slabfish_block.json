@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "slabfish_block:block/slabfish_block",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "slabfish_block:block/slabfish_block"
+    },
+    "facing=south": {
+      "model": "slabfish_block:block/slabfish_block",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "slabfish_block:block/slabfish_block",
+      "y": 270
+    }
+  }
+}
