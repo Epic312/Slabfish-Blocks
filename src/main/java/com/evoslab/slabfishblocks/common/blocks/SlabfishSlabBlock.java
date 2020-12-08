@@ -1,4 +1,4 @@
-package com.epic312.slabfish_block;
+package com.evoslab.slabfishblocks.common.blocks;
 
 import net.minecraft.block.AbstractBlock;
 import net.minecraft.block.Block;

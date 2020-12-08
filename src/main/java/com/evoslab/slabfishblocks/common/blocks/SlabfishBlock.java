@@ -1,4 +1,4 @@
-package com.epic312.slabfish_block;
+package com.evoslab.slabfishblocks.common.blocks;
 
 import net.minecraft.block.AbstractBlock;
 import net.minecraft.block.Block;
@@ -9,10 +9,10 @@ import net.minecraft.item.BlockItemUseContext;
 import net.minecraft.state.DirectionProperty;
 import net.minecraft.state.StateContainer;
 
-public class CommonSlabfishBlock extends HorizontalBlock implements IArmorVanishable {
+public class SlabfishBlock extends HorizontalBlock implements IArmorVanishable {
     public static final DirectionProperty FACING = HorizontalBlock.HORIZONTAL_FACING;
 
-    public CommonSlabfishBlock(AbstractBlock.Properties builder) {
+    public SlabfishBlock(AbstractBlock.Properties builder) {
         super(builder);
     }
 
