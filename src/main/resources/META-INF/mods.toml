@@ -1,11 +1,12 @@
 modLoader="javafml"
 loaderVersion="[34,)"
 license="All rights reserved"
-issueTrackerURL="https://github.com/Evoslab/Slabfish-Blocks"
+issueTrackerURL="https://github.com/Evoslab/Slabfish-Blocks/issues"
 [[mods]]
 modId="slabfish_block"
 version="1.0.0"
 displayName="Slabfish Blocks"
+logoFile="slabfish_blocks.png"
 credits="Evo, Epic312, EltrutLikes"
 authors="Evo's Lab"
 description='''
@@ -18,12 +19,14 @@ Slabfish Block
     versionRange="[34,)"
     ordering="NONE"
     side="BOTH"
+	
 [[dependencies.slabfish_block]]
     modId="minecraft"
     mandatory=true
     versionRange="[1.16.3, 1.17)"
     ordering="NONE"
     side="BOTH"
+	
 [[dependencies.slabfish_block]]
     modId="abnormals_core"
     mandatory=true
